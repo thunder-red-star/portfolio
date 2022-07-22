@@ -42,7 +42,7 @@ const Page: React.FC<Props> = (props) => {
       </div>
       <RenderBlocks layout={page.layout} />
       <footer>
-        <p>©️ ThunderRedStar {new Date().getFullYear()}. All rights reserved.</p>
+        <p>© ThunderRedStar {new Date().getFullYear()}. All rights reserved.</p>
       </footer>
     </main>
   );
