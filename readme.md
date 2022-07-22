@@ -3,16 +3,16 @@ This is like my 20th website. Go figure.
 
 ```
            .-^-.
-       .-^       ^-.
-  _.-^               ^-.
-  ^^-.                   ^-.
-       ^-.                 |
-           ^-.             |
-               |           |
-         .-^   |           |
-     .-^   |   |           |
- -=[       |   |        .-^
-     ^-.   |   |    .-^    
+       .-^OOOOOOO^-.
+  _.-^OOOOOOOOOOOOOOO^-.
+  ^^-OOOOOOOOOOOOOOOOOOOO^-.
+       ^-.OOOOOOOOOOOOOOOOO|
+           ^-.OOOOOOOOOOOOO|
+               |OOOOOOOOOOO|
+         .-^   |OOOOOOOOOOO|
+     .-^oOO|   |OOOOOOOOOOO|
+ -=[OOOOOOO|   |OOOOOOOO.-^
+     ^-.POO|   |OOOO.-^    
          ^-.   |.-^        
 ```
 
