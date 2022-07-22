@@ -7,7 +7,7 @@ module.exports = {
   },
   images: {
     domains: [
-      'localhost',
+      'oracle3.stuy.world',
       // Your domain(s) here
     ],
     deviceSizes: sizes,
