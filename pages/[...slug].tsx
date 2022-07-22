@@ -41,7 +41,8 @@ const Page: React.FC<Props> = (props) => {
         )}
       </div>
       <RenderBlocks layout={page.layout} />
-      <footer>
+      <footer className={classes.footer}>
+        <hr/>
         <p>© ThunderRedStar {new Date().getFullYear()}. All rights reserved.</p>
       </footer>
     </main>
